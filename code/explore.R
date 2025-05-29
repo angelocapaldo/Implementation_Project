@@ -30,7 +30,7 @@ ranges_mgcd(lowsamples)$estimate
 ranges_mgcd(lowsamples, dm = NULL, plot = TRUE, plot.args = NULL)
 
 # observe how changes in k are influencing the results
-# define a vector of 15 values and forloop generating mgcd values and plot x is k y mgcd
+# define a vector of 15 k values and forloop generating mgcd values and plot x is k y mgcd
 
 
 
